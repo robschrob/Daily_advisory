@@ -12,9 +12,9 @@ The routine includes areas of: 1) nutrition and food, 2) sports and exercises, 3
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-# Finding and holding owes balance in life
-# Feeling generally better and less exhausted, depressed, ...
-# Understanding ones limits and what to look out for in life better
+- Finding and holding owes balance in life
+- Feeling generally better and less exhausted, depressed, ...
+- Understanding ones limits and what to look out for in life better
 
 
 ## How is it used?
