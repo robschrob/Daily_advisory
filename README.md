@@ -1,4 +1,4 @@
-# Daily_advisory
+# The Daily Advisor
 
 Final project for the Building AI course
 
