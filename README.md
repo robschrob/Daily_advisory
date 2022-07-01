@@ -57,3 +57,5 @@ For this the project needs an experience data scientist to collect, structure an
 ## Acknowledgments
 
 n/a
+
+Building AI course project
